@@ -13,7 +13,7 @@ I'm Simona Mancini
 - 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/simona-mancini-78aa02211/" target="_blank">
-<img align="center" alt='Simona Mancini-linkedin' height='30' width='40' src="https://user-images.githubusercontent.com/97790166/181514758-a0c4112f-b1c5-44f8-9277-7fa0e926b703.png" style="max-width:100%;">
+<img align="center" alt='Simona Mancini-linkedin' height='30' width='40' src="https://user-images.githubusercontent.com/97790166/181515078-f7508087-6b0e-4118-9018-dc4816b92269.png" style="max-width:100%;">
 <a href="https://twitter.com/SimonaMancini73" target="_blank">
 <img align="center" alt='Simona Mancini-Twitter' height='30' width='40' src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" style="max-width: 100%;">
 <a href="smancini73@gmail.com" target="_blank">
