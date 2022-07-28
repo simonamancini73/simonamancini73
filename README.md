@@ -21,8 +21,8 @@ I'm Simona Mancini
 
 - 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/simona-mancini-78aa02211//"><img align="left" src="https://raw.githubusercontent.com/yushi1007/simonamancini73/main/images/linkedin.svg" alt="Simona Mancini | LinkedIn" width="21px"/></a>
-</br>
+<a href="https://www.linkedin.com/in/simona-mancini-78aa02211/"><img align="left" src="https://raw.githubusercontent.com/simonamancini73/simonamancini73/main/images/linkedin.svg" alt="Simona Mancini | LinkedIn" width="21px"/></a>
+
 
 
 
