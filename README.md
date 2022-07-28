@@ -22,6 +22,7 @@ I'm Simona Mancini
 ## I'm Simona Mancini
 
 - Data Science and Data Analyst <img src="https://raw.githubusercontent.com/simonamancini73/simonamancini73/main/images/data.png" width="324" height="324" align="right">
+- I'm looking for a job as Football Data Analyst
 - I’m looking forward to collaborate on projects
 
 ### 🌱 I’m currently learning:
