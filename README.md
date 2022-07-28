@@ -25,11 +25,11 @@ I'm Simona Mancini
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src='https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/r/r-original.svg' alt="rails" width='40' height='49' style='max-width: 100%;'></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
+<img src="https://raw.githubusercontent.com/simonamancini73/simonamancini73/main/images/excel.png" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src="https://raw.githubusercontent.com/simonamancini73/simonamancini73/main/images/mysql.png" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 
 
 - 📫 How to reach me:
