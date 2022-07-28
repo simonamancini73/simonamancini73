@@ -15,9 +15,22 @@ I'm Simona Mancini
 <a href="https://www.linkedin.com/in/simona-mancini-78aa02211//"><img align="left" src="https://raw.githubusercontent.com/yushi1007/simonamancini73/main/images/linkedin.svg" alt="Simona Mancini | LinkedIn" width="21px"/></a>
 </br>
 
+## [My Portfolio](https://anabeatrizmacedo241.github.io/AnaBeatrizMacedo_Portfolio/)
+
 -->
 
 I'm Simona Mancini
+
+- 🌱 I’m currently learning:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
+<img src='https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/r/r-original.svg' alt="rails" width='40' height='49' style='max-width: 100%;'></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
+<img src="https://raw.githubusercontent.com/simonamancini73/simonamancini73/main/images/mysql.png" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
+
 
 - 📫 How to reach me:
 
