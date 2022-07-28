@@ -29,7 +29,7 @@ I'm Simona Mancini
 <img src="https://raw.githubusercontent.com/simonamancini73/simonamancini73/main/images/mysql.png" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
-<img src="https://cdn.worldvectorlogo.com/logos/tableau.png" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
+<img src="https://raw.githubusercontent.com/simonamancini73/simonamancini73/main/images/tableau.png" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 
 
 - 📫 How to reach me:
