@@ -24,7 +24,7 @@ I'm Simona Mancini
 - Data Science and Data Analyst <img src="https://raw.githubusercontent.com/simonamancini73/simonamancini73/main/images/data.png" width="324" height="324" align="right">
 - I’m looking forward to collaborate on projects
 
-- 🌱 I’m currently learning:
+### 🌱 I’m currently learning:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src='https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/r/r-original.svg' alt="rails" width='40' height='49' style='max-width: 100%;'></img>
@@ -35,7 +35,7 @@ I'm Simona Mancini
 <img src="https://raw.githubusercontent.com/simonamancini73/simonamancini73/main/images/tableau.png" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 
 
-- 📫 How to reach me:
+### 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/ana-beatriz-oliveira-de-macedo-85b05b215/" target="_blank">
 <img align="center" alt='Simona Mancini - Linkedin' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
