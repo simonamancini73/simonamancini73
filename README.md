@@ -35,6 +35,14 @@ I'm Simona Mancini
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src="https://raw.githubusercontent.com/simonamancini73/simonamancini73/main/images/tableau.png" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 
+### 🔭 My Portfolios
+
+<a href="https://public.tableau.com/app/profile/simona.mancini#!/" target="_blank">
+<img src="https://raw.githubusercontent.com/simonamancini73/simonamancini73/main/images/tableau.png" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
+
+<a href="https://www.novypro.com/profile_projects/simonamancini1402" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
+
 
 ### 📫 How to reach me:
 
